@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxNumber", "MaxNumber\MaxN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2", "ConsoleApp1\Exercise2.csproj", "{10A146F7-4167-4157-BF7D-780C185EB826}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Индивидуальная задача 1 РАЗДЕЛ 2.2", "Индивидуальная задача 1 РАЗДЕЛ 2.2\Индивидуальная задача 1 РАЗДЕЛ 2.2.csproj", "{93CD90B8-30D0-4609-BF94-DCCA1FA1D5F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{10A146F7-4167-4157-BF7D-780C185EB826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10A146F7-4167-4157-BF7D-780C185EB826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10A146F7-4167-4157-BF7D-780C185EB826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CD90B8-30D0-4609-BF94-DCCA1FA1D5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CD90B8-30D0-4609-BF94-DCCA1FA1D5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CD90B8-30D0-4609-BF94-DCCA1FA1D5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CD90B8-30D0-4609-BF94-DCCA1FA1D5F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
